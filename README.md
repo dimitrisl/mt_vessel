@@ -7,6 +7,10 @@ This project runs on python3.10.
 
 To run it you have to create a virtualenv using
 
+`git clone git@github.com:dimitrisl/mt_vessel.git`
+
+`cd mt_vessel`
+
 `python3.10 -m venv assignment`
 
 `source activate assignment/bin`
